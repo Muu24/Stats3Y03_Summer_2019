@@ -6,7 +6,7 @@
 * The assignment, annoucement and grades are posted on [Childsmath](https://www.childsmath.ca/childsa/forms/main_login.php)
 
 ### Lecture Notes
-* [Lecture 1](https://muu24.github.io/Stats3Y3J_2019/Lecture_1.pdf)
+* [Lecture 1](https://muu24.github.io/Stats3Y3J_2019/Lecture1.pdf)
 
 
 ### Formula Sheet
