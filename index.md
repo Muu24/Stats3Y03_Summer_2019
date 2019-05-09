@@ -7,6 +7,7 @@
 
 ### Lecture Notes
 * [Lecture 1](https://muu24.github.io/Stats3Y3J_2019/Lecture1.pdf)
+* [Lecture 2](https://muu24.github.io/Stats3Y3J_2019/Lecture2.pdf)
 
 
 ### Formula Sheet
