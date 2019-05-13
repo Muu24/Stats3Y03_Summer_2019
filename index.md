@@ -11,6 +11,7 @@
 
 ### Past Test
 * [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test1_v1.pdf)
+* [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test1.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 
 ### Formula Sheet
