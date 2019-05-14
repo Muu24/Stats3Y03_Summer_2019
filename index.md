@@ -8,6 +8,7 @@
 ### Lecture Notes
 * [Lecture 1](https://muu24.github.io/Stats3Y3J_2019/Lecture1.pdf)
 * [Lecture 2](https://muu24.github.io/Stats3Y3J_2019/Lecture2.pdf)
+* [Lecture 3](https://muu24.github.io/Stats3Y3J_2019/Lecture3.pdf)
 
 ### Past Test
 * [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test1_v1.pdf)
