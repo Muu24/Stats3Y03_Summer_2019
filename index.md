@@ -18,4 +18,5 @@
 
 ### Formula Sheet
 
+* [Final Formula Sheet Test 1 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_formula_sheet.pdf)
 * [Final Formula Sheet 2018](https://muu24.github.io/Stats3Y03_Summer_2018/notes/final_formula_sheet.pdf)
