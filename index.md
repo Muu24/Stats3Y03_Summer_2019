@@ -13,10 +13,12 @@
 
 ### Past Test
 * [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test1_v1.pdf)
-* [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test2_v1.pdf)
+* [Test 2](https://muu24.github.io/Stats3Y3J_2019/Test2_v1.pdf)
 * [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test1.pdf)
-* [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test2.pdf)
+* [Pratice for Test 2](https://muu24.github.io/Stats3Y3J_2019/Sample_Test2.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
+* [Z table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
+
 
 ### Formula Sheet
 
