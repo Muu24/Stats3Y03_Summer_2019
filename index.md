@@ -11,7 +11,7 @@
 * [Lecture 3](https://muu24.github.io/Stats3Y3J_2019/Lecture3.pdf)
 * [Lecture 4](https://muu24.github.io/Stats3Y3J_2019/Lecture4.pdf)
 
-### Past Test
+### Past Tests
 * [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test1_v1.pdf)
 * [Test 2](https://muu24.github.io/Stats3Y3J_2019/Test2_V1.pdf)
 * [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test1.pdf)
@@ -19,12 +19,12 @@
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 * [t table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
 
-### Tests:
+### Tests
 
 * [Test1 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_2019.pdf)
 
 
-### Formula Sheet
+### Formula Sheets
 
 * [Formula Sheet Test 1 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_formula_sheet.pdf)
 * [Formula Sheet Test 2 2019](https://muu24.github.io/Stats3Y3J_2019/Test2_formulasheet.pdf)
