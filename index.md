@@ -19,6 +19,10 @@
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
 
+### Tests:
+
+* [Test1 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_2019.pdf)
+
 
 ### Formula Sheet
 
