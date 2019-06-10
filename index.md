@@ -22,7 +22,7 @@
 * [Pratice for Part 3](https://muu24.github.io/Stats3Y3J_2019/Sample_test_part_3.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 * [t table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
-* [F table](https://muu24.github.io/Stats3Y3J_2019/Ftable.pdf)
+* [F table](https://muu24.github.io/Stats3Y3J_2019/FTable.pdf)
 
 ### Tests
 
