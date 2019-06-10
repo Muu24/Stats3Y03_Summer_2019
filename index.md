@@ -19,7 +19,7 @@
 * [Test 2](https://muu24.github.io/Stats3Y3J_2019/Test2_V1.pdf)
 * [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test1.pdf)
 * [Pratice for Test 2](https://muu24.github.io/Stats3Y3J_2019/Sample_Test_2.pdf)
-* [Pratice for Test 2](https://muu24.github.io/Stats3Y3J_2019/Sample_test_part_3.pdf)
+* [Pratice for Part 3](https://muu24.github.io/Stats3Y3J_2019/Sample_test_part_3.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 * [t table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
 
