@@ -19,6 +19,7 @@
 * [Test 2](https://muu24.github.io/Stats3Y3J_2019/Test2_V1.pdf)
 * [Pratice for Test 1](https://muu24.github.io/Stats3Y3J_2019/Sample_Test1.pdf)
 * [Pratice for Test 2](https://muu24.github.io/Stats3Y3J_2019/Sample_Test_2.pdf)
+* [Pratice for Test 2](https://muu24.github.io/Stats3Y3J_2019/Sample_test_part_3.pdf)
 * [Z table](https://muu24.github.io/Stats3Y3J_2019/Ztable.pdf)
 * [t table](https://muu24.github.io/Stats3Y3J_2019/ttable.pdf)
 
@@ -31,6 +32,10 @@ You can check the solutions for tests on Childsmath.
 * [Test1 V3 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_v3.pdf)
 * [Test1 V4 2019](https://muu24.github.io/Stats3Y3J_2019/Test1_v4.pdf)
 
+* [Test2 V1 2019](https://muu24.github.io/Stats3Y3J_2019/Test2_v1.pdf)
+* [Test2 V2 2019](https://muu24.github.io/Stats3Y3J_2019/Test2_v2.pdf)
+* [Test2 V3 2019](https://muu24.github.io/Stats3Y3J_2019/Test2_v3.pdf)
+* [Test2 V4 2019](https://muu24.github.io/Stats3Y3J_2019/Test2_v4.pdf)
 
 ### Formula Sheets
 
