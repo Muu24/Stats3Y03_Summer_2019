@@ -13,6 +13,7 @@
 * [Lecture 6](https://muu24.github.io/Stats3Y3J_2019/Lecture6.pdf)
 * [Lecture 7](https://muu24.github.io/Stats3Y3J_2019/Lecture7.pdf)
 * [Lecture 8](https://muu24.github.io/Stats3Y3J_2019/Lecture8.pdf)
+* [Lecture 9](https://muu24.github.io/Stats3Y3J_2019/Lecture9.pdf)
 
 ### Past Tests
 * [Test 1](https://muu24.github.io/Stats3Y3J_2019/Test1.pdf)
